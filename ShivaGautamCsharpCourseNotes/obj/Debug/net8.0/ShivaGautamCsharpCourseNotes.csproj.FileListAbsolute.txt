@@ -1,0 +1,14 @@
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\bin\Debug\net8.0\ShivaGautamCsharpCourseNotes.exe
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\bin\Debug\net8.0\ShivaGautamCsharpCourseNotes.deps.json
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\bin\Debug\net8.0\ShivaGautamCsharpCourseNotes.runtimeconfig.json
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\bin\Debug\net8.0\ShivaGautamCsharpCourseNotes.dll
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\bin\Debug\net8.0\ShivaGautamCsharpCourseNotes.pdb
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\ShivaGautamCsharpCourseNotes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\ShivaGautamCsharpCourseNotes.AssemblyInfoInputs.cache
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\ShivaGautamCsharpCourseNotes.AssemblyInfo.cs
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\ShivaGautamCsharpCourseNotes.csproj.CoreCompileInputs.cache
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\ShivaGautamCsharpCourseNotes.dll
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\refint\ShivaGautamCsharpCourseNotes.dll
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\ShivaGautamCsharpCourseNotes.pdb
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\ShivaGautamCsharpCourseNotes.genruntimeconfig.cache
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\ref\ShivaGautamCsharpCourseNotes.dll

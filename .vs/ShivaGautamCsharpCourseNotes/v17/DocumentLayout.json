@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\loops\\dowhile\\dowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\loops\\dowhile\\dowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\loops\\loopsn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\loops\\loopsn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\loops\\whileloop\\reverseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\loops\\whileloop\\reverseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\basic program\\reverseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\basic program\\reverseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\loops\\loopsn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\loops\\loopsn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DoWhile.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\Loops\\DoWhile\\DoWhile.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\Loops\\DoWhile\\DoWhile.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\Loops\\DoWhile\\DoWhile.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\Loops\\DoWhile\\DoWhile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T03:31:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ReverseNo.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\Loops\\WhileLoop\\ReverseNo.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\Loops\\WhileLoop\\ReverseNo.cs",
@@ -39,20 +56,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LoopsN.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\Loops\\LoopsN.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\Loops\\LoopsN.cs",
               "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\Loops\\LoopsN.cs",
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\Loops\\LoopsN.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T03:25:13.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ReverseNo.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\Basic Program\\ReverseNo.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\Basic Program\\ReverseNo.cs",
@@ -60,8 +77,7 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\Basic Program\\ReverseNo.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T09:37:34.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T09:37:34.948Z"
             }
           ]
         }

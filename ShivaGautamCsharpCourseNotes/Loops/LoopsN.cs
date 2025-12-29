@@ -21,7 +21,10 @@ namespace ShivaGautamCsharpCourseNotes.Loops
              *Types of Loops :
             1) For Loop : when we know entry or exit then we use it
             2) While Loop : whe we dont know where to exit then we use it.
-            3) Do While  : first excute then check cond min iteration is 1*/
+            3) Do While  : first excute then check cond min iteration is 1
+            4) Nested For Loop : we will create more than one for loop using nesting sequence each contain
+            combination of outer for loop and inner for loop. outer for loop excute one and outer for loop
+            excute last.*/
 
 
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShivaGautamCsharpCourseNotes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fd97dbfe83276b81c88c63e078cd13bec20d4b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39d71073f9e4935dff8bee1070e2d6a6028a643d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShivaGautamCsharpCourseNotes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShivaGautamCsharpCourseNotes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ShivaGautamCsharpCourseNotes._9TypeOfFunctionOrMethod.Example</StartupObject>
+    <StartupObject>ShivaGautamCsharpCourseNotes._10Constructor.ConstMain</StartupObject>
   </PropertyGroup>
 
 </Project>

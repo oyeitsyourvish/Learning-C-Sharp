@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\8class\u0026object\\mainemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\8class\u0026object\\mainemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\9typeoffunctionormethod\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\9typeoffunctionormethod\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\8class\u0026object\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\8class\u0026object\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\8class\u0026object\\staticex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\8class\u0026object\\staticex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7array\\examples\\studmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7array\\examples\\studmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7array\\examples\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7array\\examples\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7array\\arraydef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7array\\arraydef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6loops\\breakcontinue\\break.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6loops\\breakcontinue\\break.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6loops\\loopsn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6loops\\loopsn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6loops\\dowhile\\dowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6loops\\dowhile\\dowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6loops\\whileloop\\reverseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6loops\\whileloop\\reverseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\basic program\\reverseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\basic program\\reverseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\9typeoffunctionormethod\\withparameterwithreturntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\9typeoffunctionormethod\\withparameterwithreturntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,143 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudMain.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7Array\\Examples\\StudMain.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7Array\\Examples\\StudMain.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7Array\\Examples\\StudMain.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7Array\\Examples\\StudMain.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwBAAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "WithParameterWithReturnType.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9TypeOfFunctionOrMethod\\WithParameterWithReturnType.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9TypeOfFunctionOrMethod\\WithParameterWithReturnType.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9TypeOfFunctionOrMethod\\WithParameterWithReturnType.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\9TypeOfFunctionOrMethod\\WithParameterWithReturnType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T03:58:05.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7Array\\Examples\\Student.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7Array\\Examples\\Student.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7Array\\Examples\\Student.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7Array\\Examples\\Student.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T03:54:32.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StaticEx.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\StaticEx.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\StaticEx.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\StaticEx.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\StaticEx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T03:42:52.784Z",
+              "WhenOpened": "2026-01-05T18:37:04.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainEmp.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\MainEmp.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\MainEmp.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\MainEmp.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\MainEmp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Title": "Example.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9TypeOfFunctionOrMethod\\Example.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9TypeOfFunctionOrMethod\\Example.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9TypeOfFunctionOrMethod\\Example.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\9TypeOfFunctionOrMethod\\Example.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T03:22:17.774Z",
+              "WhenOpened": "2026-01-05T18:29:15.821Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\Employee.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\Employee.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\Employee.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\8Class\u0026Object\\Employee.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T03:19:39.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArrayDef.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7Array\\ArrayDef.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7Array\\ArrayDef.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7Array\\ArrayDef.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7Array\\ArrayDef.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T05:05:51.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Break.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Loops\\BreakContinue\\Break.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6Loops\\BreakContinue\\Break.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Loops\\BreakContinue\\Break.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6Loops\\BreakContinue\\Break.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T04:30:44.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DoWhile.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Loops\\DoWhile\\DoWhile.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6Loops\\DoWhile\\DoWhile.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Loops\\DoWhile\\DoWhile.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6Loops\\DoWhile\\DoWhile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T03:31:30.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReverseNo.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Loops\\WhileLoop\\ReverseNo.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6Loops\\WhileLoop\\ReverseNo.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Loops\\WhileLoop\\ReverseNo.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6Loops\\WhileLoop\\ReverseNo.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwB4AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T04:13:53.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoopsN.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Loops\\LoopsN.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6Loops\\LoopsN.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Loops\\LoopsN.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6Loops\\LoopsN.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T03:25:13.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ReverseNo.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\Basic Program\\ReverseNo.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\Basic Program\\ReverseNo.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\Basic Program\\ReverseNo.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\Basic Program\\ReverseNo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T09:37:34.948Z"
             }
           ]
         }

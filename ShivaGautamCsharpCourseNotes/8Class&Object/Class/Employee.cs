@@ -8,11 +8,11 @@ namespace ShivaGautamCsharpCourseNotes._8Class_Object.Class
 {
     internal class Employee
     {
-        private int id;
-        private string name;
-        private int age;
+        private int id; //global Non-Static/ Instance/ Dyanamic variable.
+        private string name; //global Non-Static/ Instance/ Dyanamic variable.
+        private int age; //global Non-Static/ Instance/ Dyanamic variable.
 
-        internal void Accept(int id, string name, int age)
+        internal void Accept(int id, string name, int age) 
         {
             this.id = id;
             this.name = name;

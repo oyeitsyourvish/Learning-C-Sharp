@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\13inheritance\\inheritancemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\13inheritance\\inheritancemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\14polymorphism\\polymain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\14polymorphism\\polymain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "InheritanceMain.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\13Inheritance\\InheritanceMain.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\13Inheritance\\InheritanceMain.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\13Inheritance\\InheritanceMain.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\13Inheritance\\InheritanceMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:31:20.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MethodOverloading.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\14Polymorphism\\MethodOverloading.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\14Polymorphism\\MethodOverloading.cs",
@@ -50,12 +67,11 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\14Polymorphism\\MethodOverloading.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T18:18:09.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T18:18:09.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConstructorOverloading.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\14Polymorphism\\ConstructorOverloading.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\14Polymorphism\\ConstructorOverloading.cs",
@@ -63,25 +79,24 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\14Polymorphism\\ConstructorOverloading.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T18:11:28.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T18:11:28.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PolyMain.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\14Polymorphism\\PolyMain.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\14Polymorphism\\PolyMain.cs",
               "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\14Polymorphism\\PolyMain.cs",
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\14Polymorphism\\PolyMain.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T17:49:15.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AbstractMain.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\15Abstraction\\AbstractMain.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\15Abstraction\\AbstractMain.cs",
@@ -93,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Abstract.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\15Abstraction\\Abstract.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\15Abstraction\\Abstract.cs",
@@ -105,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EncapMain.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\12Encapsulation\\EncapMain.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\12Encapsulation\\EncapMain.cs",
@@ -113,12 +128,11 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\12Encapsulation\\EncapMain.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:34:33.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T17:34:33.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EncapEx.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\12Encapsulation\\EncapEx.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\12Encapsulation\\EncapEx.cs",
@@ -126,8 +140,7 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\12Encapsulation\\EncapEx.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:26:24.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T17:26:24.78Z"
             }
           ]
         }

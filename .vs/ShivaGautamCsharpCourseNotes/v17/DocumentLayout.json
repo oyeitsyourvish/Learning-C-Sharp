@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\13inheritance\\singlelevelinheritance\\mainsinglelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\13inheritance\\singlelevelinheritance\\mainsinglelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\13inheritance\\singlelevelinheritance\\b_child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\13inheritance\\singlelevelinheritance\\b_child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\13inheritance\\singlelevelinheritance\\a_parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\13inheritance\\singlelevelinheritance\\a_parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\13inheritance\\inheritancemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\13inheritance\\inheritancemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,19 +59,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainSingleLevel.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\MainSingleLevel.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\MainSingleLevel.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\MainSingleLevel.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\MainSingleLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:18:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "B_Child.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\B_Child.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\B_Child.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\B_Child.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\B_Child.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:17:52.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "A_Parent.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\A_Parent.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\A_Parent.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\A_Parent.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\13Inheritance\\SingleLevelInheritance\\A_Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T18:17:44.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "InheritanceMain.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\13Inheritance\\InheritanceMain.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\13Inheritance\\InheritanceMain.cs",
               "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\13Inheritance\\InheritanceMain.cs",
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\13Inheritance\\InheritanceMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T18:31:20.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MethodOverloading.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\14Polymorphism\\MethodOverloading.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\14Polymorphism\\MethodOverloading.cs",
@@ -71,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ConstructorOverloading.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\14Polymorphism\\ConstructorOverloading.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\14Polymorphism\\ConstructorOverloading.cs",
@@ -83,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PolyMain.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\14Polymorphism\\PolyMain.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\14Polymorphism\\PolyMain.cs",
@@ -91,12 +142,11 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\14Polymorphism\\PolyMain.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:49:15.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T17:49:15.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AbstractMain.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\15Abstraction\\AbstractMain.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\15Abstraction\\AbstractMain.cs",
@@ -108,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Abstract.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\15Abstraction\\Abstract.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\15Abstraction\\Abstract.cs",
@@ -120,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "EncapMain.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\12Encapsulation\\EncapMain.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\12Encapsulation\\EncapMain.cs",
@@ -132,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EncapEx.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\12Encapsulation\\EncapEx.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\12Encapsulation\\EncapEx.cs",

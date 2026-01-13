@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ShivaGautamCsharpCourseNotes._13Inheritance.SingleLevelInheritance.MainSingleLevel</StartupObject>
+    <StartupObject>ShivaGautamCsharpCourseNotes._13Inheritance.MultilevelInheritance.MainMaith</StartupObject>
   </PropertyGroup>
 
 </Project>

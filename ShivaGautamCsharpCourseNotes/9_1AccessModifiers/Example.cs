@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShivaGautamCsharpCourseNotes._9_1AccessModifiers
 {
-    internal class Example
+    public class Example
     {
         private void Private()
         {

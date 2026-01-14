@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShivaGautamCsharpCourseNotes._9_1AccessModifiers
 {
-    internal class AccessModifier : Example
+    public class AccessModifier : Example
     {
         public static void Main(string[] args)
         {
@@ -38,6 +38,9 @@ namespace ShivaGautamCsharpCourseNotes._9_1AccessModifiers
 
             // NOTE : if we want to  access public method in different project(assembly) then class shoulb be public and
                     // and the path or project reference of that classs set into new project(assembly).
+
+
+            // See the ExOfPublicAccessModifier class we access public method in differet assembly or project.
         }
     }
 }

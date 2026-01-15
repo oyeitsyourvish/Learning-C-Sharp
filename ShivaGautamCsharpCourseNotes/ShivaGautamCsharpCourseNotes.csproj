@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ShivaGautamCsharpCourseNotes._9_1AccessModifiers.AccessModifier</StartupObject>
+    <StartupObject>ShivaGautamCsharpCourseNotes._16Interface.InterMain</StartupObject>
   </PropertyGroup>
 
 </Project>

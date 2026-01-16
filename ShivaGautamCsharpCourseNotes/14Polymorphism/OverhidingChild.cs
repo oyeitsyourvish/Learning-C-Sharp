@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace ShivaGautamCsharpCourseNotes._14Polymorphism
 {
-    internal class OverrideChild : Overriding
+    internal class OverhidingChild
     {
-        override internal double Func(int a)
+        internal double Func(int a)
         {
-            Console.WriteLine("Child Class Overhiding Method");
-            return a * a ;
+            Console.WriteLine("Parent Class Override Method");
+            return a * a;
         }
     }
 }

@@ -46,15 +46,31 @@ namespace ShivaGautamCsharpCourseNotes._14Polymorphism
             Overriding o = new Overriding(); // it will run parent method there is no need to override
             Console.WriteLine(o.Func(5));
 
-
-            // but in Overriding We need to parent method as Virtual access modifier and in child when we Override it the we use
-            // Override keyword as access modifier
+            // Method Overriding.
+            /* Here Overriding works.
+             but in Overriding We need to parent method as Virtual access modifier and in child when we Override it the we use
+             Override keyword as access modifier */
             Overriding oo = new OverrideChild(); // it will overide it. first see in parent then override in child
             Console.WriteLine(oo.Func(5));
 
             OverrideChild ooo = new OverrideChild();// it will run child method 
             Console.WriteLine(ooo.Func(3));
-            
+
+
+            /* Overhidding : it is only present c#.
+             * Definition : Having multiple method with same name and same parameter but different in class(par and child)
+               without Virtual in parent and Override in child keyword known Overhiding.
+              - which reference we create that class method will be run.
+              - ex. Parent p = new Child() // it access parent ref method.
+              - we cant use virtual and override keyword means it is overriding.                 
+            */
+
+            Overhiding ov = new Overhiding();
+            Console.WriteLine(ov.Func(5));
+
+
+            // Loose Coupling : storing child class object in parent class reference called as loose coupling.
+             // ex. Parent p = new Child() // this is loose  coupling.
         }
     }
 }

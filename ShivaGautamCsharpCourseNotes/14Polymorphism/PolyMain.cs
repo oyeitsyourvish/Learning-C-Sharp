@@ -14,7 +14,7 @@ namespace ShivaGautamCsharpCourseNotes._14Polymorphism
               
             @Types of Polymorphism :- 
             1. Static or Compiletime Polymorphism :-
-             i) Method or Function Overloading : having a multiple function of method with same name
+             i) Method or Function Overloading : having a multiple function or method with same name
                     but different in parameter in same class called as overloading.
              ii) Constructor Overloading : same like overloading
 
@@ -40,6 +40,20 @@ namespace ShivaGautamCsharpCourseNotes._14Polymorphism
             m.MethOverloading(5, 6);
             m.MethOverloading(5, 6, 7);
             m.MethOverloading("Akshay ", "Kumar");
+
+
+            // Method Overriding
+            Overriding o = new Overriding(); // it will run parent method there is no need to override
+            Console.WriteLine(o.Func(5));
+
+
+            // but in Overriding We need to parent method as Virtual access modifier and in child when we Override it the we use
+            // Override keyword as access modifier
+            Overriding oo = new OverrideChild(); // it will overide it. first see in parent then override in child
+            Console.WriteLine(oo.Func(5));
+
+            OverrideChild ooo = new OverrideChild();// it will run child method 
+            Console.WriteLine(ooo.Func(3));
             
         }
     }

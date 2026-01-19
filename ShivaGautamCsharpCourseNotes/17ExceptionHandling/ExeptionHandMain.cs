@@ -31,6 +31,10 @@ namespace ShivaGautamCsharpCourseNotes._17ExceptionHandling
             ThrowException t = new ThrowException();
             t.Run();
 
+            // User Defined or Custom Exception Exception Class
+            UserDefineOrCustomeClass uc = new UserDefineOrCustomeClass();
+            uc.Run();
+
 
         }
 

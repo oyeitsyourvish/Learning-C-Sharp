@@ -19,10 +19,10 @@ namespace ShivaGautamCsharpCourseNotes._17ExceptionHandling
         public static void Main(string[] args)
         {
             ExampleOfException e = new ExampleOfException();
-            //e.Exception();
+            e.Exception();
 
             MultiCatchBlock m = new MultiCatchBlock();
-            m.Run();
+           // m.Run();
         }
 
     }

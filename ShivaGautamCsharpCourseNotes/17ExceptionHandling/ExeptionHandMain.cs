@@ -18,11 +18,20 @@ namespace ShivaGautamCsharpCourseNotes._17ExceptionHandling
          */
         public static void Main(string[] args)
         {
+            // Basic Exception Handling try catch block. and finally block
             ExampleOfException e = new ExampleOfException();
-            e.Exception();
+            //e.Exception();
 
+
+            // Multiple Catch Block
             MultiCatchBlock m = new MultiCatchBlock();
-           // m.Run();
+            // m.Run();
+
+            // Throw Keyword
+            ThrowException t = new ThrowException();
+            t.Run();
+
+
         }
 
     }

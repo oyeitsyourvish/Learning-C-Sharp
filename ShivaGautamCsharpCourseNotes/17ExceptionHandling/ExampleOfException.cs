@@ -10,11 +10,21 @@ namespace ShivaGautamCsharpCourseNotes._17ExceptionHandling
     {
         internal void Exception()
         {
-            int a = 10, b = 0;
 
-            // here we got this exception: System.DivideByZeroException
-            int c = a / b;  // it goes to infinite loop so we need to handle exception.
-            Console.WriteLine(c);
+            try
+            {
+                Console.WriteLine("Enter the First Number");
+                int a = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter the First Number");
+                int b = Convert.ToInt32(Console.ReadLine()); 
+                // here we got this exception: System.DivideByZeroException
+                int c = a / b;  // it goes to infinite loop so we need to handle exception. // we handled it in Catch Block.
+                Console.WriteLine(c);
+            }
+            catch (Exception e) //it by default identify which excpetion is there if we use Exception e
+            {
+                Console.WriteLine(e.Message.ToString()); //it give why we get the exception there.
+            }
 
         }
     }

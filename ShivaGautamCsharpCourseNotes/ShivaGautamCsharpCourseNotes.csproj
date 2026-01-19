@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ShivaGautamCsharpCourseNotes._14Polymorphism.PolyMain</StartupObject>
+    <StartupObject>ShivaGautamCsharpCourseNotes._17ExceptionHandling.ExeptionHandMain</StartupObject>
   </PropertyGroup>
 
 </Project>

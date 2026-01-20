@@ -17,5 +17,11 @@ namespace ShivaGautamCsharpCourseNotes._18FileHandling
             4.Append a file (to merge data into existing data)
             5.Delete a file
          */
+        public static void Main(string[] args)
+        {
+            FileOperation fo = new FileOperation();
+            fo.CreateFile();
+            fo.WriteOrAddData();
+        }
     }
 }

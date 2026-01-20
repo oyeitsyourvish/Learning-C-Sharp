@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\18filehandling\\fileoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\18filehandling\\fileoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\18filehandling\\filehandlingmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\18filehandling\\filehandlingmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,19 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileOperation.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\18FileHandling\\FileOperation.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\18FileHandling\\FileOperation.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\18FileHandling\\FileOperation.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\18FileHandling\\FileOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:19:18.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FileHandlingMain.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\18FileHandling\\FileHandlingMain.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\18FileHandling\\FileHandlingMain.cs",
               "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\18FileHandling\\FileHandlingMain.cs",
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\18FileHandling\\FileHandlingMain.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T18:09:26.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "VishalCustomeException.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\VishalCustomeException.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\VishalCustomeException.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserDefineOrCustomeClass.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\UserDefineOrCustomeClass.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\UserDefineOrCustomeClass.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ThrowException.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ThrowException.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ThrowException.cs",
@@ -87,11 +104,12 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ThrowException.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T19:26:11.918Z"
+              "WhenOpened": "2026-01-19T19:26:11.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MultiCatchBlock.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\MultiCatchBlock.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\MultiCatchBlock.cs",
@@ -103,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ExeptionHandMain.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ExeptionHandMain.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ExeptionHandMain.cs",
@@ -115,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ExampleOfException.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ExampleOfException.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ExampleOfException.cs",
@@ -123,8 +141,7 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ExampleOfException.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T07:02:56.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T07:02:56.908Z"
             }
           ]
         }

@@ -8,6 +8,7 @@ namespace ShivaGautamCsharpCourseNotes._18FileHandling
 {
     internal class FileHandlingMain
     {
+        // In More Detail Check Shiva Tutorial site File Handling Operations
         /* FILE HANDLING in C# :- if we want to store program output permanently under computer hard disk
          then we use file handling Operation.
          - C# provide System.IO namespace to perform file handling operation.
@@ -22,7 +23,7 @@ namespace ShivaGautamCsharpCourseNotes._18FileHandling
             FileOperation fo = new FileOperation();
             //fo.CreateFile();  // 1.Create a file
 
-            //fo.WriteOrAddData(); //2.Write data into file
+            fo.WriteOrAddData(); //2.Write data into file
             // when we call this method every time it will overwrite existing data.
             // (means if there is new data present it should replace with new data.)
 

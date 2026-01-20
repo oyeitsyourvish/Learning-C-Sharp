@@ -26,8 +26,19 @@ namespace ShivaGautamCsharpCourseNotes._18FileHandling
         internal void WriteOrAddData() // write data into file
         {
             StreamWriter sw = new StreamWriter(path);
-            sw.WriteLine("Hello Welcome to File Handling");
+            sw.WriteLine("Hello Welcome to File Handling Write Or Add Data ");
             sw.Close();
+            Console.WriteLine("Data Saved Successfully in Write content");
         }
+
+        internal void AppendOnFile() //means to merge data into existing data
+        {
+            StreamWriter sw = new StreamWriter(path,true);
+            sw.WriteLine("Hello Welcome to File Handling in Appned Process");
+            sw.Close();
+            Console.WriteLine("Data Saved Successfully in Append");
+        }
+
+
     }
 }

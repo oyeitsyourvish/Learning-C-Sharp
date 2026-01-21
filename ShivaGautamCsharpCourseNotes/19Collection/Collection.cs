@@ -20,10 +20,10 @@ namespace ShivaGautamCsharpCourseNotes._19Collection
         -processing time is faster because it does not require boxing and unboxing.    
         a.List
             b.Dictionary
-            c.Queue
-            d.Stack
-            e.SortedList
-            f.HashSet
+            c.HashSet
+            d.Queue
+            e.Stack
+            f.SortedList
         Ex. List <datatype> listnumber = new List<datatype>();
             List <int32> listnumber = new List<int32>();
 

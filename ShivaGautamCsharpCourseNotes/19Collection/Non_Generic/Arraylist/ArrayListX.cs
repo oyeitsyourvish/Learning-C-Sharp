@@ -7,14 +7,14 @@ using System.Collections;
 
 namespace ShivaGautamCsharpCourseNotes._19Collection.Arraylist
 {
-    internal class ALExample
+    internal class ArrayListX
     {
         internal void ArraylistEx()
         {
             // this is the example of non-generic collection ArrayList we can store different data types in ArrayList
             // manage index for data representation. we dont need to define size at the time of declaration.
-            System.Collections.ArrayList al = new System.Collections.ArrayList();
-            al.Add(10);
+            System.Collections.ArrayList al = new System.Collections.ArrayList(); // creating object of ArrayList class
+            al.Add(10);  // adding different data types in ArrayList
             al.Add(5);
             al.Add("Shiva");
             al.Add(15.5);
@@ -35,6 +35,14 @@ namespace ShivaGautamCsharpCourseNotes._19Collection.Arraylist
 
             // 3. Foreach using object keyword
             Console.WriteLine("Using Foreach Object keyword");
+            foreach (object data in al)
+            {
+                Console.WriteLine(data);
+            }
+
+            // Remove method
+            Console.WriteLine("After Remove Method");
+            al.Remove(5); // removing data using Remove method
             foreach (object data in al)
             {
                 Console.WriteLine(data);

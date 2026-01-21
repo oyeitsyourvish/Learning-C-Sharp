@@ -14,8 +14,8 @@ namespace ShivaGautamCsharpCourseNotes._19Collection.Arraylist
          */
         public static void Main()
         {
-            ALExample list = new ALExample();
-            list.ArraylistEx();
+            ArrayListX list = new ArrayListX(); // creating object of ArrayListX class
+            list.ArraylistEx(); // calling ArraylistEx method
         }
     }
 }

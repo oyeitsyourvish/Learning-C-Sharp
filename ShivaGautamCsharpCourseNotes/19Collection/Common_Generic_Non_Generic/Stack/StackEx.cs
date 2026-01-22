@@ -21,13 +21,16 @@ namespace ShivaGautamCsharpCourseNotes._19Collection.Common_Generic_Non_Generic.
                 {
                     Console.WriteLine(item);
                 }
-                Console.WriteLine("After Pop Method:");
-                stack.Peek(); // viewing top element using Peek method
+               
+                Console.WriteLine("After Pop Method: Removing Top Element");
                 stack.Pop(); // removing top element using Pop method
                 foreach (object item in stack)
                 {
                     Console.WriteLine(item);
                 }
+                Console.WriteLine();
+                Console.WriteLine("After Peek Method Viewing Top Element");
+                Console.WriteLine(stack.Peek()); ; // viewing top element using Peek method
             }
             catch (Exception ex)
             {
@@ -37,6 +40,7 @@ namespace ShivaGautamCsharpCourseNotes._19Collection.Common_Generic_Non_Generic.
 
         internal void StackExample_Generic()
         {
+            Console.WriteLine("--------------------------------------------------------");
             Console.WriteLine("Example of Generic Stack"); // we can store specific data type in Generic Stack.
             try
             {
@@ -48,13 +52,16 @@ namespace ShivaGautamCsharpCourseNotes._19Collection.Common_Generic_Non_Generic.
                 {
                     Console.WriteLine(item);
                 }
-                Console.WriteLine("After Pop Method:");
-                stack.Peek(); // viewing top element using Peek method
+ 
+                Console.WriteLine("After Pop Method: Removing Top Element");
                 stack.Pop(); // removing top element using Pop method
                 foreach (object item in stack)
                 {
                     Console.WriteLine(item);
                 }
+                Console.WriteLine();
+                Console.WriteLine("After Peek Method Viewing Top Element");
+                Console.WriteLine(stack.Peek()); ; // viewing top element using Peek method
             }
             catch (Exception ex)
             {

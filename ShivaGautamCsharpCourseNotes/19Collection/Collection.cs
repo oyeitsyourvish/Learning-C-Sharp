@@ -18,7 +18,7 @@ namespace ShivaGautamCsharpCourseNotes._19Collection
         Types of Collection in C# :-
         1.Generic Collection :- It can store similar data types. it provide type safety better security and optimization.
         -processing time is faster because it does not require boxing and unboxing.    
-        a.List
+            a.List
             b.Dictionary
             c.HashSet
             d.Queue

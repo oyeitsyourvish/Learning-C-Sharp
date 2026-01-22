@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ShivaGautamCsharpCourseNotes._19Collection.Common_Generic_Non_Generic.Stack.Stack</StartupObject>
+    <StartupObject>ShivaGautamCsharpCourseNotes._19Collection.Common_Generic_Non_Generic.Queue.Queue</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

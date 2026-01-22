@@ -15,9 +15,9 @@ namespace ShivaGautamCsharpCourseNotes._19Collection.Non_Generic.Hashtable
             {
                 // we can store different data types in Hashtable using key-value pairs. cause it is non-generic collection.
                 System.Collections.Hashtable ht = new System.Collections.Hashtable(); // creating object of Hashtable class
-                ht.Add("1", "Shiva Gautam"); // adding key-value pairs data in Hashtable
+                ht.Add("1", "Virat Kohli"); // adding key-value pairs data in Hashtable
                 ht.Add("2", 25);
-                ht.Add("3", "Kathmandu");
+                ht.Add("3", "Punjab");
 
                 // we want to desplay data 
                 // we cant display data using for loop cause it does not manage index for data representation (key-value).

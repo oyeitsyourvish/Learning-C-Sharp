@@ -15,9 +15,9 @@ namespace ShivaGautamCsharpCourseNotes._19Collection.Non_Generic.Sortedlist
             {
                 Console.WriteLine("Example of Non-Generic Sortedlist");
                 System.Collections.SortedList sl = new System.Collections.SortedList(); // creating object of Sortedlist class
-                sl.Add("1", "Shiva Gautam"); // adding key-value pairs data in Sortedlist
+                sl.Add("1", "Hyderabad"); // adding key-value pairs data in Sortedlist
                 sl.Add("2", 25);
-                sl.Add("3", "Kathmandu");
+                sl.Add("3", "Banglore");
                 // we want to desplay data 
                 // we cant display data using for loop cause it does not manage index for data representation (key-value).
                 // so we will use foreach loop to display data
@@ -43,10 +43,20 @@ namespace ShivaGautamCsharpCourseNotes._19Collection.Non_Generic.Sortedlist
             Console.WriteLine("Example of Generic SortedList");
             try
             {
+                // we can store different data types in Generic Sortedlist by specifying data types
+                // of key and value as object
+                System.Collections.Generic.SortedList<int, object> anotheEx = new System.Collections.Generic.SortedList<int, object>();
+                anotheEx.Add(1, "Ramesh Kumar");
+                anotheEx.Add(2, 30);
+                anotheEx.Add(3, "Chennai");
+
+                // when we want to display data of generic sortedlist specifying data types of key and value we have
+                // to use KeyValuePair<TKey,TValue> to iterate key-value pairs in Sortedlist
                 System.Collections.Generic.SortedList<int, string> sl = new System.Collections.Generic.SortedList<int, string>();
                 sl.Add(1, "Shiva Gautam");
                 sl.Add(2, "Kathmandu");
                 sl.Add(3, "Nepal");
+                
 
                 /* when we want to display data of generic sortedlist specifying data types
                  of key and value we have to use KeyValuePair<TKey,TValue> to iterate key-value pairs

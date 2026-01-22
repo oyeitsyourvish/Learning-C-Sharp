@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\common_generic_non_generic\\stack\\stackex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\common_generic_non_generic\\stack\\stackex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\common_generic_non_generic\\sortedlist\\sortedlistex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\common_generic_non_generic\\sortedlist\\sortedlistex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\common_generic_non_generic\\stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\common_generic_non_generic\\stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\2non_generic\\hashtable\\hashtablex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\2non_generic\\hashtable\\hashtablex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\2non_generic\\hashtable\\hashtablemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\2non_generic\\hashtable\\hashtablemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\2non_generic\\arraylist\\arraylistx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\2non_generic\\arraylist\\arraylistx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\common_generic_non_generic\\sortedlist\\sortedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\common_generic_non_generic\\sortedlist\\sortedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\non_generic\\hashtable\\hashtablex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\non_generic\\hashtable\\hashtablex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\non_generic\\hashtable\\hashtablemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\non_generic\\hashtable\\hashtablemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\non_generic\\arraylist\\arraylistx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\non_generic\\arraylist\\arraylistx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\non_generic\\arraylist\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\non_generic\\arraylist\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\2non_generic\\arraylist\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\2non_generic\\arraylist\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,19 +83,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StackEx.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Stack\\StackEx.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Stack\\StackEx.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Stack\\StackEx.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Stack\\StackEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T19:35:17.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Stack\\Stack.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Stack\\Stack.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Stack\\Stack.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Stack\\Stack.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T19:34:57.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SortedlistEx.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Sortedlist\\SortedlistEx.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Sortedlist\\SortedlistEx.cs",
               "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Sortedlist\\SortedlistEx.cs",
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Sortedlist\\SortedlistEx.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAArwD8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T19:13:01.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Sortedlist.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Sortedlist\\Sortedlist.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\Common_Generic_Non_Generic\\Sortedlist\\Sortedlist.cs",
@@ -100,55 +134,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HashTableX.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Hashtable\\HashTableX.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Hashtable\\HashTableX.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Hashtable\\HashTableX.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Hashtable\\HashTableX.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T20:12:18.865Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HashTableMain.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Hashtable\\HashTableMain.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Hashtable\\HashTableMain.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Hashtable\\HashTableMain.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Hashtable\\HashTableMain.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Title": "HashTableX.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Hashtable\\HashTableX.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Hashtable\\HashTableX.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Hashtable\\HashTableX.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Hashtable\\HashTableX.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T20:11:27.79Z"
+              "WhenOpened": "2026-01-21T20:12:18.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ArrayListX.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Arraylist\\ArrayListX.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Arraylist\\ArrayListX.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Arraylist\\ArrayListX.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Arraylist\\ArrayListX.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAANAAAAAAAAAA==",
+              "Title": "HashTableMain.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Hashtable\\HashTableMain.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Hashtable\\HashTableMain.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Hashtable\\HashTableMain.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Hashtable\\HashTableMain.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T19:50:10.483Z"
+              "WhenOpened": "2026-01-21T20:11:27.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ArrayListX.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Arraylist\\ArrayListX.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Arraylist\\ArrayListX.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Arraylist\\ArrayListX.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Arraylist\\ArrayListX.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T19:50:10.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ArrayList.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Arraylist\\ArrayList.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Arraylist\\ArrayList.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Arraylist\\ArrayList.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\Non_Generic\\Arraylist\\ArrayList.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Arraylist\\ArrayList.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Arraylist\\ArrayList.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Arraylist\\ArrayList.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\2Non_Generic\\Arraylist\\ArrayList.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T19:46:09.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Collection.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Collection.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\Collection.cs",
@@ -160,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "FileOperation.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\18FileHandling\\FileOperation.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\18FileHandling\\FileOperation.cs",
@@ -173,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FileHandlingMain.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\18FileHandling\\FileHandlingMain.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\18FileHandling\\FileHandlingMain.cs",
@@ -185,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "VishalCustomeException.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\VishalCustomeException.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\VishalCustomeException.cs",
@@ -197,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "UserDefineOrCustomeClass.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\UserDefineOrCustomeClass.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\UserDefineOrCustomeClass.cs",
@@ -209,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ThrowException.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ThrowException.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ThrowException.cs",
@@ -222,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MultiCatchBlock.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\MultiCatchBlock.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\MultiCatchBlock.cs",
@@ -234,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ExeptionHandMain.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ExeptionHandMain.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ExeptionHandMain.cs",
@@ -246,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ExampleOfException.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ExampleOfException.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\ExampleOfException.cs",

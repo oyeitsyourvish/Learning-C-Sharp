@@ -16,7 +16,7 @@ namespace ShivaGautamCsharpCourseNotes._19Collection.Arraylist
             System.Collections.ArrayList al = new System.Collections.ArrayList(); // creating object of ArrayList class
             al.Add(10);  // adding different data types in ArrayList
             al.Add(5);
-            al.Add("Shiva");
+            al.Add("Rohit Sharma");
             al.Add(15.5);
 
             // There are three ways to iterate ArrayList

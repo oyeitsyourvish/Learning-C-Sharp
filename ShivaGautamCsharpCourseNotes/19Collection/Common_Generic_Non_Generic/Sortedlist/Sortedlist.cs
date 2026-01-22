@@ -16,7 +16,12 @@ namespace ShivaGautamCsharpCourseNotes._19Collection.Non_Generic.Sortedlist
         public static void Main(string[] args)
         {
             SortedlistEx ex = new SortedlistEx(); // creating object of SortedlistEx class
-            ex.SortedlistExample(); // calling SortedlistExample method using object of SortedlistEx class
+
+            ex.SortedlistExample_Non_Generic(); 
+            // calling SortedlistExample method using object of SortedlistEx class
+
+            ex.SortedlistExample_Generic(); 
+            // calling SortedlistExample_Generic method using object of SortedlistEx class
         }
     }
 }

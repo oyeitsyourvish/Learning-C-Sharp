@@ -15,11 +15,11 @@ namespace ShivaGautamCsharpCourseNotes._19Collection._1Generic.List
                 Key Features:- 
                     1. Dynamic Sizing: Automatically resizes as items are added/removed.
                     2. Index-Based Access: Fast access to elements using their index.
-                    3. Generic: Can store any data type (List<T>).
+                    3. Generic: Can store any data type (List<T>). we need to provide data type while creating object of List.
                     4. Ordered: Maintains the order of insertion.
                     5. Allows Duplicates: Can store duplicate items.
                     6. Provides various methods for manipulation (Add, Remove, Find, Sort, etc.).
-                    7. But it store same type of data only.
+                    
 
              When to use:- When you need a simple list of items and want fast access using index.
              */

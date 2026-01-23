@@ -12,6 +12,7 @@ namespace ShivaGautamCsharpCourseNotes._19Collection._1Generic.List
         {
             /*
              List in C# :- A dynamic array (size can grow/shrink). Stores items in order (index-based).
+                           - it can store duplicate items.
                 Key Features:- 
                     1. Dynamic Sizing: Automatically resizes as items are added/removed.
                     2. Index-Based Access: Fast access to elements using their index.

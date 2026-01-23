@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ShivaGautamCsharpCourseNotes._19Collection._1Generic._2Hashset.Hashset</StartupObject>
+    <StartupObject>ShivaGautamCsharpCourseNotes._19Collection._1Generic.List.List</StartupObject>
   </PropertyGroup>
 
 </Project>

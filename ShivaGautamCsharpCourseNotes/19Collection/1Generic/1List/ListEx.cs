@@ -17,7 +17,7 @@ namespace ShivaGautamCsharpCourseNotes._19Collection._1Generic.List
                 stud.Add("Jagan"); // adding elements using Add method
                 stud.Add("Ravi");
                 stud.Add("Ajay");
-                stud.Add("Suresh");
+                stud.Add("Ravi");
 
                 foreach (var item in stud) // displaying elements using foreach loop
                 {

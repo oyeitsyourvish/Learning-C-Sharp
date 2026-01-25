@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ShivaGautamCsharpCourseNotes._19._1Delegate.MultiCastDelegate.MulticastDelegate</StartupObject>
+    <StartupObject>CSharpBasicToAdvanced._19Collection.Non_Generic.Sortedlist.Sortedlist</StartupObject>
   </PropertyGroup>
 
 </Project>

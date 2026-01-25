@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "ShivaGautamCsharpCourseNotes/1.0.0": {
+      "CSharpBasicToAdvanced/1.0.0": {
         "runtime": {
-          "ShivaGautamCsharpCourseNotes.dll": {}
+          "CSharpBasicToAdvanced.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ShivaGautamCsharpCourseNotes/1.0.0": {
+    "CSharpBasicToAdvanced/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

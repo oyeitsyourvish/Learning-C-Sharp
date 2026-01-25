@@ -1,0 +1,15 @@
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\bin\Debug\net8.0\CSharpBasicToAdvanced.exe
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\bin\Debug\net8.0\CSharpBasicToAdvanced.deps.json
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\bin\Debug\net8.0\CSharpBasicToAdvanced.runtimeconfig.json
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\bin\Debug\net8.0\CSharpBasicToAdvanced.dll
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\bin\Debug\net8.0\CSharpBasicToAdvanced.pdb
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\CSharpBasicToAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\CSharpBasicToAdvanced.AssemblyInfoInputs.cache
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\CSharpBasicToAdvanced.AssemblyInfo.cs
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\CSharpBasicToAdvanced.csproj.CoreCompileInputs.cache
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\CSharpBasicToAdvanced.sourcelink.json
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\CSharpBasicToAdvanced.dll
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\refint\CSharpBasicToAdvanced.dll
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\CSharpBasicToAdvanced.pdb
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\CSharpBasicToAdvanced.genruntimeconfig.cache
+E:\Vishal CSharp\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes\obj\Debug\net8.0\ref\CSharpBasicToAdvanced.dll

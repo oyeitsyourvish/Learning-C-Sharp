@@ -5,11 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ShivaGautamCsharpCourseNotes._19._1Delegate.SingleCastDelegate.SingleCastDelegate</StartupObject>
+    <StartupObject>ShivaGautamCsharpCourseNotes._19._1Delegate.MultiCastDelegate.MulticastDelegate</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="19.1Delegate\MultiCastDelegate\" />
-  </ItemGroup>
 
 </Project>

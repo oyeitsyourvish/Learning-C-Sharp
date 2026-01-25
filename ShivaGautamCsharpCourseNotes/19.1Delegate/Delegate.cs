@@ -16,6 +16,9 @@ namespace ShivaGautamCsharpCourseNotes._19._1Delegate
              method through the delegate.
              - They are used when you want to pass methods as parameters, call methods later, or handle events.
 
+            Types of Delegate:
+             1. Single Cast Delegate
+             2. Multi Cast Delegate
              
             */
 

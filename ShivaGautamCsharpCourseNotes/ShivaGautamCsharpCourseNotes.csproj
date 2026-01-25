@@ -8,4 +8,8 @@
     <StartupObject>ShivaGautamCsharpCourseNotes._19Collection._1Generic.Dictionary.Dictionary</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="19.1Delegate\MultiCastDelegate\" />
+  </ItemGroup>
+
 </Project>

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._19Collection.Non_Generic.Sortedlist
+namespace CSharpBasicToAdvanced._19Collection.Non_Generic.Sortedlist
 {
     internal class SortedlistEx
     {

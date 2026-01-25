@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._8Class_Object.Class
+namespace CSharpBasicToAdvanced._8Class_Object.Class
 {
     internal class StaticEx
     {

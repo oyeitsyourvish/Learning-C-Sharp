@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._10Constructor
+namespace CSharpBasicToAdvanced._10Constructor
 {
     internal class CopyConstructor
     {

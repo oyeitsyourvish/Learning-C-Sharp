@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._5SwitchCase
+namespace CSharpBasicToAdvanced._5SwitchCase
 {
     internal class SwitchC
     {

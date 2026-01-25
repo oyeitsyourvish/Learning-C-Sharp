@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes.BoxingAndUnboxing
+namespace CSharpBasicToAdvanced.BoxingAndUnboxing
 {
     internal class BoxAndUnboxExample
     {

@@ -1,4 +1,4 @@
-﻿using ShivaGautamCsharpCourseNotes._9_1AccessModifiers; // Project reference
+﻿using CSharpBasicToAdvanced._9_1AccessModifiers; // Project reference
 public class program : AccessModifier
 {
     public static void Main(string[] args)

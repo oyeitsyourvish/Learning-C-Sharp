@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._19Collection.Common_Generic_Non_Generic.Queue
+namespace CSharpBasicToAdvanced._19Collection.Common_Generic_Non_Generic.Queue
 {
     internal class QueueEx
     {

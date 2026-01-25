@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace ShivaGautamCsharpCourseNotes._18FileHandling
+namespace CSharpBasicToAdvanced._18FileHandling
 {
     internal class FileOperation
     {

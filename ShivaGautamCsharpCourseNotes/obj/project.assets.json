@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj",
-      "projectName": "ShivaGautamCsharpCourseNotes",
-      "projectPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj",
+      "projectUniqueName": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj",
+      "projectName": "CSharpBasicToAdvanced",
+      "projectPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj",
       "packagesPath": "C:\\Users\\jagu1\\.nuget\\packages\\",
       "outputPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\obj\\",
       "projectStyle": "PackageReference",

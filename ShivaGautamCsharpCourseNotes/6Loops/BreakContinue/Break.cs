@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._6Loops.BreakContinue
+namespace CSharpBasicToAdvanced._6Loops.BreakContinue
 {
     internal class Break
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._16Interface
+namespace CSharpBasicToAdvanced._16Interface
 {
     internal class ImplementationClass : IFirst, ISecond
     {

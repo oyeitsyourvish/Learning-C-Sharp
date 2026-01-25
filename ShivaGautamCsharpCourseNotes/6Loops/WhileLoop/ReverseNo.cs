@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes.Loops.WhileLoop
+namespace CSharpBasicToAdvanced.Loops.WhileLoop
 {
     internal class ReverseNo
     {

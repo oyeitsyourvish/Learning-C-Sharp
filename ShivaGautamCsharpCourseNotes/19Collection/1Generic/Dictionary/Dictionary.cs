@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._19Collection._1Generic.Dictionary
+namespace CSharpBasicToAdvanced._19Collection._1Generic.Dictionary
 {
     internal class Dictionary
     {

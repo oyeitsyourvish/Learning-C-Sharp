@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._9TypeOfFunctionOrMethod
+namespace CSharpBasicToAdvanced._9TypeOfFunctionOrMethod
 {
     internal class NoParameterWithReturnType
     {

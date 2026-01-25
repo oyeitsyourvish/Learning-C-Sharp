@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using System;
 
-namespace ShivaGautamCsharpCourseNotes._17ExceptionHandling
+namespace CSharpBasicToAdvanced._17ExceptionHandling
 {
     internal class MultiCatchBlock
     {

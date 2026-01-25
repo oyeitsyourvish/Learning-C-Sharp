@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._14Polymorphism
+namespace CSharpBasicToAdvanced._14Polymorphism
 {
     internal class OverhidingChild
     {

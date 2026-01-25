@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes.Loops.ForLoop
+namespace CSharpBasicToAdvanced.Loops.ForLoop
 {
     internal class PrintTable
     {

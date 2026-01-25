@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes.If_Else
+namespace CSharpBasicToAdvanced.If_Else
 {
     internal class IfelseEx
     {

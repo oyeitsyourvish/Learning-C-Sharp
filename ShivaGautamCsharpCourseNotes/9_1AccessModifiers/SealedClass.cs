@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._9_1AccessModifiers
+namespace CSharpBasicToAdvanced._9_1AccessModifiers
 {
     sealed class SealedClass
     {

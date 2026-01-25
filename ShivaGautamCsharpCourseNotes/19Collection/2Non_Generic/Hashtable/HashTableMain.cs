@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._19Collection.Non_Generic.Hashtable
+namespace CSharpBasicToAdvanced._19Collection.Non_Generic.Hashtable
 {
     internal class HashTableMain
     {

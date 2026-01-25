@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes.SI_Prgram
+namespace CSharpBasicToAdvanced.SI_Prgram
 {
     internal class SimpleInterest
     {

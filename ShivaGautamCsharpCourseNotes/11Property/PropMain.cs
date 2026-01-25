@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._11Property
+namespace CSharpBasicToAdvanced._11Property
 {
     internal class PropMain
     {

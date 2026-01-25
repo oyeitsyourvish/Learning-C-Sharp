@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._19Collection.Arraylist
+namespace CSharpBasicToAdvanced._19Collection.Arraylist
 {
     internal class ArrayList
     {

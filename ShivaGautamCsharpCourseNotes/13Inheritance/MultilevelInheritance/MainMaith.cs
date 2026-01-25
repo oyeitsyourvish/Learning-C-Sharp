@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._13Inheritance.MultilevelInheritance
+namespace CSharpBasicToAdvanced._13Inheritance.MultilevelInheritance
 {
     internal class MainMaith
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._7Array.Examples
+namespace CSharpBasicToAdvanced._7Array.Examples
 {
     internal class Student
     {

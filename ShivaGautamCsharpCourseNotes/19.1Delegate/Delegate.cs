@@ -1,11 +1,11 @@
-﻿using ShivaGautamCsharpCourseNotes._19._1Delegate.SingleCastDelegate;
+﻿using CSharpBasicToAdvanced._19._1Delegate.SingleCastDelegate;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._19._1Delegate
+namespace CSharpBasicToAdvanced._19._1Delegate
 {
     internal class Delegate
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExOfPublicAccesseModifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aca1fac979d7d0a21c43b86bf4577cbd74b3d900")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f87682eb7dc8bab593cf084736d2c7ec5c5e8927")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExOfPublicAccesseModifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExOfPublicAccesseModifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

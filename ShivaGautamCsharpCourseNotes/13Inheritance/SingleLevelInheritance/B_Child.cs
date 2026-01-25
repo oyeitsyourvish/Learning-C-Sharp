@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._13Inheritance.SingleLevelInheritance
+namespace CSharpBasicToAdvanced._13Inheritance.SingleLevelInheritance
 {
     internal class B_Child : A_Parent
     {

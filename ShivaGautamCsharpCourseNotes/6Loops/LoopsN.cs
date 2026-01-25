@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes.Loops
+namespace CSharpBasicToAdvanced.Loops
 {
     internal class LoopsN
     {

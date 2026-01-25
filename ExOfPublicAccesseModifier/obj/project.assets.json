@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "ShivaGautamCsharpCourseNotes/1.0.0": {
+      "CSharpBasicToAdvanced/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/ShivaGautamCsharpCourseNotes.dll": {}
+          "bin/placeholder/CSharpBasicToAdvanced.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ShivaGautamCsharpCourseNotes.dll": {}
+          "bin/placeholder/CSharpBasicToAdvanced.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ShivaGautamCsharpCourseNotes/1.0.0": {
+    "CSharpBasicToAdvanced/1.0.0": {
       "type": "project",
-      "path": "../ShivaGautamCsharpCourseNotes/ShivaGautamCsharpCourseNotes.csproj",
-      "msbuildProject": "../ShivaGautamCsharpCourseNotes/ShivaGautamCsharpCourseNotes.csproj"
+      "path": "../ShivaGautamCsharpCourseNotes/CSharpBasicToAdvanced.csproj",
+      "msbuildProject": "../ShivaGautamCsharpCourseNotes/CSharpBasicToAdvanced.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ShivaGautamCsharpCourseNotes >= 1.0.0"
+      "CSharpBasicToAdvanced >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj": {
-              "projectPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes.csproj"
+            "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj": {
+              "projectPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj"
             }
           }
         }

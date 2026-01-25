@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes.Basic_Program
+namespace CSharpBasicToAdvanced.Basic_Program
 {
     internal class ReverseNo
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._19Collection._1Generic._2Hashset
+namespace CSharpBasicToAdvanced._19Collection._1Generic._2Hashset
 {
     internal class HashsetEx
     {

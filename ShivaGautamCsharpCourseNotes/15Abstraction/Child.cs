@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._15Abstraction
+namespace CSharpBasicToAdvanced._15Abstraction
 {
     internal class Child : Abstract
     {

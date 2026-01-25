@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ShivaGautamCsharpCourseNotes\ShivaGautamCsharpCourseNotes.csproj" />
+    <ProjectReference Include="..\ShivaGautamCsharpCourseNotes\CSharpBasicToAdvanced.csproj" />
   </ItemGroup>
 
 </Project>

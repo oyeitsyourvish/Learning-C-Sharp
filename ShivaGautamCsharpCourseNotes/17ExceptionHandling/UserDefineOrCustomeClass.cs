@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._17ExceptionHandling
+namespace CSharpBasicToAdvanced._17ExceptionHandling
 {
     internal class UserDefineOrCustomeClass
     {

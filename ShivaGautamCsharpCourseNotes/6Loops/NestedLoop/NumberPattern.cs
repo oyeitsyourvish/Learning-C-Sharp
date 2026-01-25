@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes.Loops.NestedLoop
+namespace CSharpBasicToAdvanced.Loops.NestedLoop
 {
     internal class NumberPattern
     {

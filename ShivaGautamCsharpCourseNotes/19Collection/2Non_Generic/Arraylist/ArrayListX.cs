@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
 
-namespace ShivaGautamCsharpCourseNotes._19Collection.Arraylist
+namespace CSharpBasicToAdvanced._19Collection.Arraylist
 {
     internal class ArrayListX
     {

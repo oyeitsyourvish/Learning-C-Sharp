@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._18FileHandling
+namespace CSharpBasicToAdvanced._18FileHandling
 {
     internal class FileHandlingMain
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes._19._1Delegate.MultiCastDelegate
+namespace CSharpBasicToAdvanced._19._1Delegate.MultiCastDelegate
 {
     internal class MulticastDelegate
     {

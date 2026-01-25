@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShivaGautamCsharpCourseNotes.Datatypes
+namespace CSharpBasicToAdvanced.Datatypes
 {
     internal class Datatypess
     {

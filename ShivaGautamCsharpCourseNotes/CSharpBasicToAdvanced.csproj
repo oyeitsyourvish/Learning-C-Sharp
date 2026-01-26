@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpBasicToAdvanced._17ExceptionHandling.ExeptionHandMain</StartupObject>
+    <StartupObject>CSharpBasicToAdvanced._19._2Multithreading.SingleThreadingEx</StartupObject>
   </PropertyGroup>
 
 </Project>

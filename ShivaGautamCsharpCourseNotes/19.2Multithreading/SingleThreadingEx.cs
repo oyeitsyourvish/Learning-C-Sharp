@@ -18,10 +18,10 @@ namespace CSharpBasicToAdvanced._19._2Multithreading
         }
         public static void Main(string[] args)
         {
-            SingleThreadingEx multithreadingEx = new SingleThreadingEx(); // Creating object of MultithreadingEx class
-            multithreadingEx.SingleThreading(); // here we are calling Display method using object directly but below we will
+            SingleThreadingEx st = new SingleThreadingEx(); // Creating object of MultithreadingEx class
+            //st.SingleThreading(); // here we are calling Display method using object directly but below we will
                                         // see how to call it using Thread class
-            ThreadStart ts = new ThreadStart(multithreadingEx.SingleThreading); // Creating ThreadStart delegate object (passing method as parameter called delegate)
+            ThreadStart ts = new ThreadStart(st.SingleThreading); // Creating ThreadStart delegate object (passing method as parameter called delegate)
             Thread t = new Thread(ts); // Creating Thread object and passing ThreadStart delegate object as parameter
             t.Start(); // Starting the thread which will call Display method
         }

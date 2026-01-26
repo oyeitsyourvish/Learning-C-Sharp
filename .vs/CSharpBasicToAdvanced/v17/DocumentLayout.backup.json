@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19.2multithreading\\multithreadingex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19.2multithreading\\multithreadingex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19.2multithreading\\singlethreadingex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19.2multithreading\\singlethreadingex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MultithreadingEx.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19.2Multithreading\\MultithreadingEx.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19.2Multithreading\\MultithreadingEx.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19.2Multithreading\\MultithreadingEx.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19.2Multithreading\\MultithreadingEx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:10:30.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SingleThreadingEx.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19.2Multithreading\\SingleThreadingEx.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19.2Multithreading\\SingleThreadingEx.cs",
               "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19.2Multithreading\\SingleThreadingEx.cs",
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19.2Multithreading\\SingleThreadingEx.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T18:55:47.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Multithreading.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19.2Multithreading\\Multithreading.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19.2Multithreading\\Multithreading.cs",

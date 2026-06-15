@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpBasicToAdvanced._6LogicBuilding.B_OverlsConsonant</StartupObject>
+    <StartupObject>CSharpBasicToAdvanced._6Struct.Struct</StartupObject>
   </PropertyGroup>
 
 </Project>

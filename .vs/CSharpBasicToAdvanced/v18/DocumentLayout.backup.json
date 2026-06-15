@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6struct\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6struct\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6logicbuilding\\b_overlsconsonant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6logicbuilding\\b_overlsconsonant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Struct.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Struct\\Struct.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6Struct\\Struct.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Struct\\Struct.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6Struct\\Struct.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T20:57:47.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "B_OverlsConsonant.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\B_OverlsConsonant.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\B_OverlsConsonant.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "A_OddorEvenIfOddSquareElseQube.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\A_OddorEvenIfOddSquareElseQube.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\A_OddorEvenIfOddSquareElseQube.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\A_OddorEvenIfOddSquareElseQube.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T20:10:57.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T20:10:57.813Z"
             }
           ]
         }

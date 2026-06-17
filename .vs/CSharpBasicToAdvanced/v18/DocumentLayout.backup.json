@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\5switchcase\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\5switchcase\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\9_2modifiers\\3_abstractmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\9_2modifiers\\3_abstractmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6logicbuilding\\c_divisibleby3_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6logicbuilding\\c_divisibleby3_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\9_2modifiers\\1_staticmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\9_2modifiers\\1_staticmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6struct\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6struct\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6logicbuilding\\b_overlsconsonant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6logicbuilding\\b_overlsconsonant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6logicbuilding\\a_oddorevenifoddsquareelseqube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6logicbuilding\\a_oddorevenifoddsquareelseqube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\9_2modifiers\\2_sealedmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\9_2modifiers\\2_sealedmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,65 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\5SwitchCase\\Calculator.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\5SwitchCase\\Calculator.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\5SwitchCase\\Calculator.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\5SwitchCase\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Title": "3_AbstractModifier.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\3_AbstractModifier.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\3_AbstractModifier.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\3_AbstractModifier.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\3_AbstractModifier.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T18:58:23.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "C_DivisibleBy3_5.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\C_DivisibleBy3_5.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\C_DivisibleBy3_5.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\C_DivisibleBy3_5.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\C_DivisibleBy3_5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T18:51:27.545Z",
+              "WhenOpened": "2026-06-17T19:22:26.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Struct.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Struct\\Struct.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6Struct\\Struct.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6Struct\\Struct.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6Struct\\Struct.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAABJAAAAAAAAAA==",
+              "Title": "2_SealedModifier.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\2_SealedModifier.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\2_SealedModifier.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\2_SealedModifier.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\2_SealedModifier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T20:57:47.248Z",
+              "WhenOpened": "2026-06-17T19:06:38.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "B_OverlsConsonant.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\B_OverlsConsonant.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\B_OverlsConsonant.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\B_OverlsConsonant.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\B_OverlsConsonant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "1_StaticModifier.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\1_StaticModifier.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\1_StaticModifier.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\1_StaticModifier.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\1_StaticModifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T20:31:11.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "A_OddorEvenIfOddSquareElseQube.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\A_OddorEvenIfOddSquareElseQube.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\A_OddorEvenIfOddSquareElseQube.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\A_OddorEvenIfOddSquareElseQube.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\A_OddorEvenIfOddSquareElseQube.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T20:10:57.813Z"
+              "WhenOpened": "2026-06-17T18:52:57.76Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\9_2modifiers\\6_readonlymodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\9_2modifiers\\6_readonlymodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\9_2modifiers\\5_partialmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\9_2modifiers\\5_partialmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\9_2modifiers\\4_virtualoverridemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\9_2modifiers\\4_virtualoverridemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\9_2modifiers\\3_abstractmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\9_2modifiers\\3_abstractmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "6_ReadonlyModifier.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\6_ReadonlyModifier.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\6_ReadonlyModifier.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\6_ReadonlyModifier.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\6_ReadonlyModifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T20:19:01.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5_PartialModifier.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\5_PartialModifier.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\5_PartialModifier.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\5_PartialModifier.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\5_PartialModifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T20:06:04.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4_VirtualOverrideModifier.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\4_VirtualOverrideModifier.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\4_VirtualOverrideModifier.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\4_VirtualOverrideModifier.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\4_VirtualOverrideModifier.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T19:48:05.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "3_AbstractModifier.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\3_AbstractModifier.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\3_AbstractModifier.cs",
@@ -39,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "2_SealedModifier.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\2_SealedModifier.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\2_SealedModifier.cs",
@@ -47,12 +98,11 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\2_SealedModifier.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T19:06:38.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T19:06:38.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "1_StaticModifier.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\1_StaticModifier.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\1_StaticModifier.cs",
@@ -60,8 +110,7 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\1_StaticModifier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T18:52:57.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T18:52:57.76Z"
             }
           ]
         }

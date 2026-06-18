@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6logicbuilding\\d_factorialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6logicbuilding\\d_factorialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6logicbuilding\\e_primenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6logicbuilding\\e_primenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\6logicbuilding\\d_factorofnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\6logicbuilding\\d_factorofnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,19 +51,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "D_FactorialNumber.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\D_FactorialNumber.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\D_FactorialNumber.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\D_FactorialNumber.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\D_FactorialNumber.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T19:06:56.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "E_PrimeNumber.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\E_PrimeNumber.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\E_PrimeNumber.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\E_PrimeNumber.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\E_PrimeNumber.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T18:53:48.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "D_FactorOfNumber.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\D_FactorOfNumber.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\D_FactorOfNumber.cs",
               "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\6LogicBuilding\\D_FactorOfNumber.cs",
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\6LogicBuilding\\D_FactorOfNumber.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCMAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-17T21:07:48.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "6_ReadonlyModifier.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\6_ReadonlyModifier.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\6_ReadonlyModifier.cs",
@@ -63,12 +97,11 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\6_ReadonlyModifier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T20:19:01.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T20:19:01.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "5_PartialModifier.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\5_PartialModifier.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\5_PartialModifier.cs",
@@ -80,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "4_VirtualOverrideModifier.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\4_VirtualOverrideModifier.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\4_VirtualOverrideModifier.cs",
@@ -92,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "3_AbstractModifier.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\3_AbstractModifier.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\3_AbstractModifier.cs",
@@ -104,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "2_SealedModifier.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\2_SealedModifier.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\2_SealedModifier.cs",
@@ -116,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "1_StaticModifier.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\9_2Modifiers\\1_StaticModifier.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\9_2Modifiers\\1_StaticModifier.cs",

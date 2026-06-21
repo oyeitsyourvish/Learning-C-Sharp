@@ -30,19 +30,19 @@ namespace CSharpBasicToAdvanced._6LogicBuilding
         {
             Console.WriteLine("enter the number to check it is Xylem or phloem");
             int a = Convert.ToInt32(Console.ReadLine());
-            int lastDig = 0; //4
+            int fl = 0; //4
             int meanDigit = 0;
-            lastDig = a % 10; //4
+            fl = a % 10; //4
             a /= 10; //123
-            while (a >= 9)
+            while (a > 9)
             {
                 int meanst = a % 10; //3, 2
                 meanDigit += meanst;//0+3=3, 3+2=5
                 a /= 10;
             }
-            lastDig += a; //4+1=5
+            fl += a; //4+1=5
 
-            if (lastDig == meanDigit) //5==5
+            if (fl == meanDigit) //5==5
             {
                 Console.WriteLine("Xylem");
             }

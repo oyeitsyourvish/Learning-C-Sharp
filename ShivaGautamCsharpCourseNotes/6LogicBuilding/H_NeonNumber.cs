@@ -36,14 +36,8 @@ namespace CSharpBasicToAdvanced._6LogicBuilding
                 sum += temp; //0+1=1, 1+8=9
                 store /= 10; // 81/10=8, 8/10=0
             }
-            if (sum == a) //9==9
-            {
-                Console.WriteLine("Neon Number");
-            }
-            else
-            {
-                Console.WriteLine("Not");
-            }
+            string output = a == sum ? "Neon Number" : "Not Neon Number";
+            Console.WriteLine(output);
 
 
         }

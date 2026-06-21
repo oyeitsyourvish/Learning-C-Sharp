@@ -8,14 +8,22 @@ namespace CSharpBasicToAdvanced._12Encapsulation
 {
     internal class EncapEx
     {
-        //Storing the private variable and method into single entity known as encapsulatio.
+        //Storing the private variable and method into single entity known as encapsulation.
 
         //this two are private data member we cant directly access it. we need getter and setter method.
         private string name;
         private int age;
 
-        public string Name { get { return name; } set { name = value; } }
-        public int Age { get { return age; } set { age = value; } }
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
     }
 
 }

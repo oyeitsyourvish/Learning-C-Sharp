@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpBasicToAdvanced._7Array.Programs.A_MethodProgram</StartupObject>
+    <StartupObject>CSharpBasicToAdvanced._7Array.Programs.D_ReverseArray</StartupObject>
   </PropertyGroup>
 
 </Project>

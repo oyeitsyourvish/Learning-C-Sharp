@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpBasicToAdvanced._7Array.Programs.F_DuplicateSearch</StartupObject>
+    <StartupObject>CSharpBasicToAdvanced._7_1Strings.StringEx</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -41,6 +41,11 @@ namespace CSharpBasicToAdvanced._7_1Strings
             }
 
             Console.WriteLine();
+            Console.WriteLine("Substring method run");
+            string stri = "Programming";
+            Console.WriteLine(stri.Substring(3));
+
+            Console.WriteLine();
             Console.WriteLine("IndexOf Method Run");
             string c = "Rowdy Rathore";
             Console.WriteLine(c.IndexOf('y'));

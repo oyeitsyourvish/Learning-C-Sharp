@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\a_secondoccourance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\a_secondoccourance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\g_anagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\g_anagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\f_longestwordinsentece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\f_longestwordinsentece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\d_findduplicatechar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\d_findduplicatechar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\e_countwordinsentence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\e_countwordinsentence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\d_removeduplicatechar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\d_removeduplicatechar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\c_countovelsandconsonant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\c_countovelsandconsonant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\b_palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7_1strings\\stringprograms\\b_palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\7_1strings\\stringbuilderex\\sbexplaination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\7_1strings\\stringbuilderex\\sbexplaination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\17exceptionhandling\\program\\exceptionhandlepro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\17exceptionhandling\\program\\exceptionhandlepro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,117 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "A_SecondOccourance.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\A_SecondOccourance.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\A_SecondOccourance.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\A_SecondOccourance.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\A_SecondOccourance.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAvAAAAAAAAAA==",
+              "Title": "ExceptionHandlePro.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\Program\\ExceptionHandlePro.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\Program\\ExceptionHandlePro.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\Program\\ExceptionHandlePro.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\Program\\ExceptionHandlePro.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:59:26.18Z",
+              "WhenOpened": "2026-06-30T18:58:41.84Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "G_Anagram.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\G_Anagram.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\G_Anagram.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\G_Anagram.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\G_Anagram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:52:32.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "F_LongestWordInSentece.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\F_LongestWordInSentece.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\F_LongestWordInSentece.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\F_LongestWordInSentece.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\F_LongestWordInSentece.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:31:11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "D_FindDuplicateChar.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\D_FindDuplicateChar.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\D_FindDuplicateChar.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\D_FindDuplicateChar.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\D_FindDuplicateChar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:23:13.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "E_CountWordInSentence.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\E_CountWordInSentence.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\E_CountWordInSentence.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\E_CountWordInSentence.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\E_CountWordInSentence.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:19:45.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "D_RemoveDuplicateChar.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\D_RemoveDuplicateChar.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\D_RemoveDuplicateChar.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\D_RemoveDuplicateChar.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\D_RemoveDuplicateChar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T02:13:44.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "C_CountOvelsAndConsonant.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\C_CountOvelsAndConsonant.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\C_CountOvelsAndConsonant.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\C_CountOvelsAndConsonant.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\C_CountOvelsAndConsonant.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T19:03:16.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "B_Palindrome.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\B_Palindrome.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\B_Palindrome.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\B_Palindrome.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringPrograms\\B_Palindrome.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T18:58:21.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SBExplaination.cs",
-              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringBuilderEX\\SBExplaination.cs",
-              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringBuilderEX\\SBExplaination.cs",
-              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\7_1Strings\\StringBuilderEX\\SBExplaination.cs",
-              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\7_1Strings\\StringBuilderEX\\SBExplaination.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T04:11:39.595Z"
             }
           ]
         }

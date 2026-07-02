@@ -12,7 +12,7 @@ namespace CSharpBasicToAdvanced._19Collection._1_0CollectionInterface
         {
             /* IList : it is child of ICollection. It is used when you need a collection of objects that can be accessed by index
                (like an array) and whose size can change dynamically.
-               Purpose :- It allows reading and writing data one by one and also allows accessing elements by index.
+               Purpose :- It allows storing objects in a dynamic collection that can be accessed, updated, inserted, or removed using an index.
                Methods :- Add, Remove, Clear, Contains, Count, IndexOf, Insert, RemoveAt 
 
             */

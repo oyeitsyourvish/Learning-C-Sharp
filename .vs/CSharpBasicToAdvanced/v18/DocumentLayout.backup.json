@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\1_0collectioninterface\\3_ilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\1_0collectioninterface\\3_ilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\1_0collectioninterface\\2_icollection_afterienumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\1_0collectioninterface\\2_icollection_afterienumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,32 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "3_IList.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\3_IList.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\3_IList.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\3_IList.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\3_IList.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T06:53:35.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "2_ICollection_AfterIEnumerable.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\2_ICollection_AfterIEnumerable.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\2_ICollection_AfterIEnumerable.cs",
               "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\2_ICollection_AfterIEnumerable.cs",
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\2_ICollection_AfterIEnumerable.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwDAAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T06:31:43.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "1_IEnumerable_ParentOfEveryCollection.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\1_IEnumerable_ParentOfEveryCollection.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\1_IEnumerable_ParentOfEveryCollection.cs",
               "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\1_IEnumerable_ParentOfEveryCollection.cs",
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\1_0CollectionInterface\\1_IEnumerable_ParentOfEveryCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T06:19:16.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Collection.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\Collection.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\Collection.cs",
@@ -64,12 +81,11 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\Collection.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T06:07:07.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T06:07:07.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ExceptionHandlePro.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\Program\\ExceptionHandlePro.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\Program\\ExceptionHandlePro.cs",
@@ -77,8 +93,7 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\17ExceptionHandling\\Program\\ExceptionHandlePro.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T18:58:41.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T18:58:41.84Z"
             }
           ]
         }

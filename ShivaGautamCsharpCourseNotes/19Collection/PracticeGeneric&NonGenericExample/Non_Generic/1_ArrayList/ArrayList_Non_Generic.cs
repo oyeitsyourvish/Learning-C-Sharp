@@ -87,10 +87,8 @@ namespace CSharpBasicToAdvanced._19Collection.PracticeGeneric_NonGenericExample.
             Console.WriteLine(al.LastIndexOf(3));
             Console.WriteLine();
 
-            ArrayList all = new ArrayList();
-            all.Add(10);
-            all.Add(40);
-            all.Add(30);
+            ArrayList all = new ArrayList { 30, 50, 20 };
+
             //Sort Arraylist using Sort() method.
             all.Sort();
             foreach (var i in all)

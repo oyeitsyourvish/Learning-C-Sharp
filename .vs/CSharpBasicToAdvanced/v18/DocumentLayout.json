@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\practicegeneric\u0026nongenericexample\\non_generic\\hashtable\\hashtable_non_generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\practicegeneric\u0026nongenericexample\\non_generic\\hashtable\\hashtable_non_generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\practicegeneric\u0026nongenericexample\\non_generic\\1_arraylist\\arraylist_non_generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\practicegeneric\u0026nongenericexample\\non_generic\\1_arraylist\\arraylist_non_generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Hashtable_Non_Generic.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\Non_Generic\\HashTable\\Hashtable_Non_Generic.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\Non_Generic\\HashTable\\Hashtable_Non_Generic.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\Non_Generic\\HashTable\\Hashtable_Non_Generic.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\Non_Generic\\HashTable\\Hashtable_Non_Generic.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T19:30:09.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ArrayList_Non_Generic.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\Non_Generic\\1_ArrayList\\ArrayList_Non_Generic.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\Non_Generic\\1_ArrayList\\ArrayList_Non_Generic.cs",
               "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\Non_Generic\\1_ArrayList\\ArrayList_Non_Generic.cs",
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\Non_Generic\\1_ArrayList\\ArrayList_Non_Generic.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwGsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwFkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-03T18:33:25.532Z",
               "EditorCaption": ""

@@ -56,7 +56,12 @@ namespace CSharpBasicToAdvanced._19Collection.PracticeGeneric_NonGenericExample.
             {
                 Console.WriteLine(i.Key + " " + i.Value);
             }
-
+            // another vay to display Dictionary Key And Value
+            /* foreach (KeyValuePair<int, string> i in d)
+             {
+                 Console.WriteLine($"Key is : {i.Key} and Value is : {i.Value}");
+             }
+            */
         }
     }
 }

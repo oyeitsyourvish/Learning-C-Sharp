@@ -103,9 +103,6 @@ namespace CSharpBasicToAdvanced._19Collection.PracticeGeneric_NonGenericExample.
             {
                 Console.WriteLine(i);
             }
-            Console.WriteLine();
-
-
         }
     }
 }

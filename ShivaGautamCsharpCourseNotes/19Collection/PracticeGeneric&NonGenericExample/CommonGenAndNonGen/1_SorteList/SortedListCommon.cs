@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CSharpBasicToAdvanced._19Collection.PracticeGeneric_NonGenericExample.CommonGenAndNonGen._1_SorteList
 {
-    internal class SortedListGen_Non_Gen
+    internal class SortedListCommon
     {
         public static void Main(string[] args)
         {
@@ -69,7 +69,12 @@ namespace CSharpBasicToAdvanced._19Collection.PracticeGeneric_NonGenericExample.
             {
                 Console.WriteLine($"Key : {i.Key} and Value : {i.Value}");
             }
-
+            // another way to iterate using foreach
+            /* foreach (var i in sl)
+             {
+                 Console.WriteLine($"Key : {i.Key} and Value : {i.Value}");
+             }
+            */
         }
     }
 }

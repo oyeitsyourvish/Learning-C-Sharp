@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\practicegeneric\u0026nongenericexample\\commongenandnongen\\3_queue\\queuecommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\practicegeneric\u0026nongenericexample\\commongenandnongen\\3_queue\\queuecommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\19collection\\practicegeneric\u0026nongenericexample\\commongenandnongen\\2_stack\\stackcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\19collection\\practicegeneric\u0026nongenericexample\\commongenandnongen\\2_stack\\stackcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "QueueCommon.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\3_Queue\\QueueCommon.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\3_Queue\\QueueCommon.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\3_Queue\\QueueCommon.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\3_Queue\\QueueCommon.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T01:24:32.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StackCommon.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\2_Stack\\StackCommon.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\2_Stack\\StackCommon.cs",
               "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\2_Stack\\StackCommon.cs",
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\2_Stack\\StackCommon.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwEMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T01:52:48.781Z",
               "EditorCaption": ""

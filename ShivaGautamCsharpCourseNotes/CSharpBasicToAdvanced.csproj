@@ -5,11 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpBasicToAdvanced._19Collection.PracticeGeneric_NonGenericExample.CommonGenAndNonGen._2_Stack.StackCommon</StartupObject>
+    <StartupObject>CSharpBasicToAdvanced._19Collection.PracticeGeneric_NonGenericExample.CommonGenAndNonGen._3_Queue.QueueCommon</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="19Collection\PracticeGeneric&amp;NonGenericExample\CommonGenAndNonGen\3_Queue\" />
-  </ItemGroup>
 
 </Project>

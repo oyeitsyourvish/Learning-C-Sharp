@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpBasicToAdvanced._19Collection.PracticeGeneric_NonGenericExample.CommonGenAndNonGen._3_Queue.QueueCommon</StartupObject>
+    <StartupObject>CSharpBasicToAdvanced._20ExtraConcept.IDispose_Destructor.DisposeExample</StartupObject>
   </PropertyGroup>
 
 </Project>

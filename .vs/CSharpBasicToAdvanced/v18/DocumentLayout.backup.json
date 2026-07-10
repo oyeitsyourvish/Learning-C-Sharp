@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\20extraconcept\\delegates\\delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\20extraconcept\\delegates\\delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\20extraconcept\\iactionresultex\\iactionresultexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\20extraconcept\\iactionresultex\\iactionresultexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|e:\\vishal csharp\\shivagautamcsharpcoursenotes\\shivagautamcsharpcoursenotes\\20extraconcept\\idispose\u0026destructor\\disposeexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA95489A-AF97-45FB-856F-ED9ACE22A179}|ShivaGautamCsharpCourseNotes\\CSharpBasicToAdvanced.csproj|solutionrelative:shivagautamcsharpcoursenotes\\20extraconcept\\idispose\u0026destructor\\disposeexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DelegateExample.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\20ExtraConcept\\Delegates\\DelegateExample.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\20ExtraConcept\\Delegates\\DelegateExample.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\20ExtraConcept\\Delegates\\DelegateExample.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\20ExtraConcept\\Delegates\\DelegateExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T20:14:36.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IActionResultExample.cs",
+              "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\20ExtraConcept\\IActionResultEx\\IActionResultExample.cs",
+              "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\20ExtraConcept\\IActionResultEx\\IActionResultExample.cs",
+              "ToolTip": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\20ExtraConcept\\IActionResultEx\\IActionResultExample.cs",
+              "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\20ExtraConcept\\IActionResultEx\\IActionResultExample.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T20:00:25.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DisposeExample.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\20ExtraConcept\\IDispose\u0026Destructor\\DisposeExample.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\20ExtraConcept\\IDispose\u0026Destructor\\DisposeExample.cs",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DestructorExample.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\20ExtraConcept\\IDispose\u0026Destructor\\DestructorExample.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\20ExtraConcept\\IDispose\u0026Destructor\\DestructorExample.cs",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\20ExtraConcept\\IDispose\u0026Destructor\\DestructorExample.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T19:46:26.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-09T19:46:26.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ThreadExample.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\20ExtraConcept\\Thread\u0026Multithread\\ThreadExample.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\20ExtraConcept\\Thread\u0026Multithread\\ThreadExample.cs",
@@ -68,12 +101,11 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\20ExtraConcept\\Thread\u0026Multithread\\ThreadExample.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T19:23:51.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-09T19:23:51.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "QueueCommon.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\3_Queue\\QueueCommon.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\3_Queue\\QueueCommon.cs",
@@ -81,12 +113,11 @@
               "RelativeToolTip": "ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\3_Queue\\QueueCommon.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAYwBoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T01:24:32.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T01:24:32.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "StackCommon.cs",
               "DocumentMoniker": "E:\\Vishal CSharp\\ShivaGautamCsharpCourseNotes\\ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\2_Stack\\StackCommon.cs",
               "RelativeDocumentMoniker": "ShivaGautamCsharpCourseNotes\\19Collection\\PracticeGeneric\u0026NonGenericExample\\CommonGenAndNonGen\\2_Stack\\StackCommon.cs",

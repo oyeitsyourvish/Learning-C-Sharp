@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpBasicToAdvanced._20ExtraConcept.IDispose_Destructor.DisposeExample</StartupObject>
+    <StartupObject>CSharpBasicToAdvanced._20ExtraConcept.Delegates.DelegateExample</StartupObject>
   </PropertyGroup>
 
 </Project>
